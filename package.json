@@ -12,7 +12,9 @@
   "description": "",
   "dependencies": {
     "dotenv": "^16.5.0",
+    "node-fetch": "^2.7.0",
     "node-telegram-bot-api": "^0.66.0",
-    "openai": "^4.103.0"
+    "openai": "^4.103.0",
+    "replicate": "^1.0.1"
   }
 }
